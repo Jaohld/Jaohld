@@ -1,4 +1,4 @@
-### Olá, eu sou o João Henrique Lopes 🤙🏾
+### Hello there, I'm João Henrique Lopes 🤙🏾
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-henrique-lopes-984679254)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lopezzd)
